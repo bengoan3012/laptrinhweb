@@ -1,1 +1,1 @@
-Đây là nội dung của file merge_example.txt
+Nội dung chỉnh sửa từ master
